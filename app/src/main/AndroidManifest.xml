@@ -9,8 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
         <activity android:name=".PaymentActivity"></activity>
         <activity android:name=".donateActivity" />
+=======
+        <activity android:name=".SignupActivity"></activity>
+        <activity android:name=".LoginActivity" />
+>>>>>>> 3461e14a96b95b57b05f4edfaeba3956eded897b
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
